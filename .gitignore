@@ -50,3 +50,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#IDE
+.idea/
+
+node_modules
